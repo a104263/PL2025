@@ -1,0 +1,34 @@
+{
+  "stock": [
+    {
+      "cod": "A1",
+      "nome": "água 0.5L",
+      "quant": 7,
+      "preco": 0.7
+    },
+    {
+      "cod": "A2",
+      "nome": "água com gás 0.5L",
+      "quant": 5,
+      "preco": 0.8
+    },
+    {
+      "cod": "A3",
+      "nome": "snickers",
+      "quant": 4,
+      "preco": 1.0
+    },
+    {
+      "cod": "A4",
+      "nome": "m&m's",
+      "quant": 4,
+      "preco": 1.2
+    },
+    {
+      "cod": "A5",
+      "nome": "sumo",
+      "quant": 12,
+      "preco": 0.9
+    }
+  ]
+}
